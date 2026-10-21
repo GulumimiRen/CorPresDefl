@@ -1,0 +1,18 @@
+Package: CorPresDefl
+Title: Three-Phase Corneal Net Pressure-Volume Slopes
+Version: 0.1.0
+Authors@R: person("Qi", "Ren", email = "GulumimiRen@users.noreply.github.com", role = c("aut", "cre"))
+Description: Calculate three transformed net pressure-volume endpoint slopes
+    from corneal deflection volume at first applanation, highest concavity,
+    and second applanation. Includes a reference pressure waveform,
+    vectorized inputs, and data-frame workflows.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: stats, utils
+Suggests: testthat (>= 3.0.0)
+URL: https://github.com/GulumimiRen/CorPresDefl
+BugReports: https://github.com/GulumimiRen/CorPresDefl/issues
+Roxygen: list(markdown = TRUE)
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0

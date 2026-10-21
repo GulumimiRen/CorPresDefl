@@ -1,0 +1,22 @@
+bibentry(
+  bibtype = "Article",
+  title = "Development and validation of a correction equation for Corvis tonometry",
+  author = c(person(c("Akram", "Abdelazim"), "Joda"),
+             person(c("Mir", "Mohi", "Sefat"), "Shervin"),
+             person("Daniel", "Kook"), person("Ahmed", "Elsheikh")),
+  journal = "Computer Methods in Biomechanics and Biomedical Engineering",
+  year = "2016", volume = "19", number = "9", pages = "943--953",
+  doi = "10.1080/10255842.2015.1077515",
+  header = "For the published reference pressure profile, cite:"
+)
+
+bibentry(
+  bibtype = "Article",
+  title = "DeflVol: a model-derived volumetric descriptor of corneal deflection at highest concavity under Corvis ST air-puff loading",
+  author = c(person("Q.", "Ren"), person("Z.", "Deng"),
+             person("Z.", "Chu"), person("Z.", "Pan"), person("P.", "Wan")),
+  journal = "Frontiers in Bioengineering and Biotechnology",
+  year = "2026", volume = "14", pages = "1933733",
+  doi = "10.3389/fbioe.2026.1933733",
+  header = "For the DeflVol descriptor at highest concavity, cite:"
+)

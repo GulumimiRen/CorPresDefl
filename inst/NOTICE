@@ -1,0 +1,23 @@
+Bundled reference data
+======================
+reference_pressure.csv tabulates the Corvis ST reference pressure profile
+described by Joda AA, Shervin MMS, Kook D, Elsheikh A (2016).
+Development and validation of a correction equation for Corvis tonometry.
+Computer Methods in Biomechanics and Biomedical Engineering 19(9):943-953.
+https://doi.org/10.1080/10255842.2015.1077515
+
+Numerical preparation by GulumimiRen includes smoothing, endpoint modeling
+and resampling at 0.05 ms.
+
+Curve identifier: corpresdefl_reference_pressure_v1
+CSV SHA-256: 9ceedbcfee7dc1ee37424b78a3b80b99700bd7b7cd6499c5ea287f2619043f2f
+
+Data license and attribution
+===========================
+Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
+Third-party attribution: Copyright (c) 2019 Eliasy et al.
+Frontiers in Bioengineering and Biotechnology 7:105.
+https://doi.org/10.3389/fbioe.2019.00105
+
+R code: Copyright (c) 2026 GulumimiRen; MIT license.
